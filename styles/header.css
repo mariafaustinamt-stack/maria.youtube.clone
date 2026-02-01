@@ -1,0 +1,38 @@
+.header
+{
+    height: 55px;
+    display: flex;
+    flex-direction: row;
+    margin-bottom: 20px;
+    z-index: 100;
+
+    position: fixed;
+    top: 0px;
+    left: 0;
+    right: 0;
+    background-color: white;
+    border-bottom-width:1px;
+    border-bottom-color:rgb(184, 181, 181) ;
+    border-bottom-style: solid;
+    
+}
+.noti-box
+{
+    position: relative;
+}
+.number-not
+{
+    display:flex;
+    align-items: center;
+    position: absolute;
+    top:-2px;
+    right: 28px;
+    background-color: red;
+    color: white;
+    font-size: 11px;
+    padding-right: 5px;
+    padding-left: 5px;
+    padding-bottom: 1px;
+    padding-top: 1px;
+    border-radius: 16px;
+}
