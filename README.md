@@ -22,7 +22,7 @@ What I Learned
 - Understanding how to recreate real-world website interfaces.
 - Improving frontend design and layout skills.
 
-Live Demo
+## 🌐 Live Demo
 
-"View YouTube Clone" (https://mariafaustinamt-stack.github.io/maria.youtube.clone/)
+[View YouTube Clone](https://mariafaustinamt-stack.github.io/maria.youtube.clone/)
 
